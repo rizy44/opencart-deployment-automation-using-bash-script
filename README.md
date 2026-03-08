@@ -1,9 +1,8 @@
 # OpenCart Deployment Automation Using Bash Script
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04+-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.03+-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![OpenCart](https://img.shields.io/badge/OpenCart-3.x-0C7EAF?style=flat)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A comprehensive Bash automation toolkit that streamlines the deployment, management, and backup of OpenCart e-commerce websites on Ubuntu servers. This project eliminates manual configuration errors and reduces deployment time from hours to minutes.
 
